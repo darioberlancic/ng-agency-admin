@@ -1,0 +1,14 @@
+{
+  "editable": true,
+  "spellcheck": true,
+  "placeholder": "Enter text here...",
+  "translate": "",
+  "height": "",
+  "minHeight": "200px",
+  "width": "",
+  "minWidth": "",
+  "showToolbar": true,
+  "enableToolbar": true,
+  "imageEndPoint": "",
+  "toolbar": []
+}
